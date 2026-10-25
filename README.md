@@ -1,2 +1,13 @@
 # grade-tracker-terra
-grade tracker in c for skillz
+- grade tracker in c for skillz
+- Purpose: takes in a input .txt file with course code, weight%, score% and prints current grade in course. it then asks for a target grade, and computes the score needed on final exam to obtain the goal (and if it is reasonable).
+- designed specifically around uni courses that hide grades over the semester till the end for some strange reason
+- Skills employed:
+- Arrays
+- File input
+- While loops
+- Nested loops
+- Functions: loadGrades(), currentGrade(), neededOnFinalExam(), printReport()
+- Conditionals
+- menu
+- extra features will figure out later!! 
